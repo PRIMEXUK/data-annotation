@@ -1,0 +1,31 @@
+Technical Skills for Data Annotation:
+
+1. Image and Video Labeling:
+   - Bounding Boxes
+   - Polygons
+   - Semantic Segmentation
+   - Keypoint Annotation
+   - Instance Segmentation
+
+2. Text Annotation:
+   - Named Entity Recognition (NER)
+   - Sentiment Analysis
+   - Part-of-Speech (POS) Tagging
+   - Text Classification
+
+3. Audio and Voice Annotation:
+   - Speech-to-Text Transcription
+   - Speaker Identification
+   - Sound Classification
+
+4. Technical Proficiency:
+   - Basic Programming (Python, SQL)
+   - Data Management and Cleaning
+   - Familiarity with Annotation Tools (Labelbox, CVAT, Label Studio, SuperAnnotate)
+   - Understanding of Machine Learning (ML) and Artificial Intelligence (AI) concepts
+
+5. Analytical and Soft Skills:
+   - Attention to Detail
+   - Quality Control and Validation
+   - Critical Thinking
+   - Time Management
